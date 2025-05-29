@@ -1,6 +1,12 @@
 # 💻 Introduction to C++ - Programming Assignments
 This repository contains my assignments from **Laboration 1 to 5** in my very first C++ programming course. The course focused on learning the fundamentals of programming using C++ — including syntax, control structures, functions, data types, arrays, file I/O, and more.
 
+## 📁 Related Project
+
+The course also includes a separate project assignment, which is available in its own repository:
+
+👉 [Project Repository](https://github.com/yourusername/project-repo-name)
+
 ## 🧾 Topics Covered
 Throughout these laborations, I practiced and learned:
 
