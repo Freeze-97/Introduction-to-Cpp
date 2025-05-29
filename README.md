@@ -5,7 +5,7 @@ This repository contains my assignments from **Laboration 1 to 5** in my very fi
 
 The course also includes a separate project assignment, which is available in its own repository:
 
-👉 [Project Repository](https://github.com/yourusername/project-repo-name)
+👉 [Project Repository](https://github.com/Freeze-97/Person-List-Manager-CLI)
 
 ## 🧾 Topics Covered
 Throughout these laborations, I practiced and learned:
