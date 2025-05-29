@@ -49,3 +49,41 @@ Throughout these laborations, I practiced and learned:
 - 🧰 Functions and header files
 
 - 📦 struct usage
+
+## 🛠️ How to Build and Run
+
+This project uses **CMake** to compile all assignments into individual executables.
+
+### ✅ Requirements
+
+- A C++ compiler (e.g. `g++`)
+- [CMake ≥ 3.2](https://cmake.org/download/)
+- A terminal (Linux, macOS, or WSL/MinGW on Windows)
+
+### 🔧 Build Steps
+
+1. **Open a terminal and navigate to the project root:**
+   ```bash
+   cd /path/to/this/repository
+   ```
+   
+2. **Create a build directory:**
+   ```bash
+   mkdir build
+   cd build
+   ```
+   
+3. **Generate build files and compile:**
+   ```bash
+   cmake ..
+   make
+   ```
+   
+4. **Run any compiled assignment, for example:**
+    ```bash
+    ./dt018g-LAB_1_ASSIGNMENT_1
+    ```
+
+The output binaries will be named according to the lab and assignment, such as:
+- ```dt018g-LAB_2_ASSIGNMENT_3```
+- ```dt018g-LAB_5_ASSIGNMENT_1B```
